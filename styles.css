@@ -1,0 +1,25 @@
+body{
+			color: white;
+			background-color: black;
+		}
+		input[type="submit"]{
+			border: none;
+			border-radius: 5px;
+			background-color: #2196f3;
+			width: 50px;
+			height: 30px;
+		}
+		.center{
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+		.portifolio{
+			border-radius: 10px;
+			background-color: blue;
+			padding: 15px;
+			width: 248px;
+		}
+		.portifolio input{
+			outline-color: none;
+		}
